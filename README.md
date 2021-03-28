@@ -21,6 +21,8 @@ Using Pandas to apply unsupervised learning methods to analyze crytocurrency dat
 
 -- To achieve Deliverable 1 task to "keep all the cryptocurrencies that have a working algorithm", a check was performed to see if any cryptocurrencies had no algorithm value assigned (blank value).  Since all cryptocurrencies had an algorithm value assigned (no blank values), no crytocurrencies were removed from the dataset.
 
+-- Deliverable 3 Elbow curve as well as Deliverable 4 3-D scatter plot and scatter plot images not displaying within Github Juypter notebook view so images included below for review/reference ease.
+
 ## Results Summary
 
 ** Deliverable 2: Data successfully preprocessed to use the PCA algorithm to reduce the dimensions.
