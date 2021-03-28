@@ -25,26 +25,26 @@ Using Pandas to apply unsupervised learning methods to analyze crytocurrency dat
 
 ** Deliverable 2: Data successfully preprocessed to use the PCA algorithm to reduce the dimensions.
 
-### PCS_DF DataFrame using Crypto_df DataFrame Index
+##### PCS_DF DataFrame using Crypto_df DataFrame Index
 ![](images/dev2_pcs_dataframe.png)
 
 
 ** Deliverable 3: Elbow curve created, predictions made on the K = 4 clusters to create the new crypto_df dataframe with nine columns
 
-### Elbow Curve
+##### Elbow Curve
 ![](images/dev3_elbow.png)
 
-### Crypto_df DataFrame
+##### Crypto_df DataFrame
 ![](images/crypto_dataframe.png)
 
 
 ** Deliverable 4: Clusters plotted on 3-D scatter plot, a new dataframe created with the scaled data, and a scatter plot created for TotalCoinsMined and TotalCoinSupply.
 
-### 3-D Scatter Plot
+##### 3-D Scatter Plot
 ![](images/3d_scatter.png)
 
-### DataFrame with Scaled Data
+##### DataFrame with Scaled Data
 ![](images/clustered_dataframe.png)
 
-### Scatter Plot "TotalCoinsMined" and "TotalCoinSupply"
+##### Scatter Plot "TotalCoinsMined" and "TotalCoinSupply"
 ![](images/scatter.png)
